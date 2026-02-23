@@ -1,1 +1,1 @@
-require ('./main/catalogs/ryukoa.js')
+require ('./ryuko/catalogs/ryukoa.js')
