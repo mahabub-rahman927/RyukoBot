@@ -4,15 +4,15 @@
   "language": "en",
   "approval": false,
   "premium": false,
-  "BOTNAME": "ryuko",
+  "BOTNAME": "@mahabub !¡🐼",
   "EMAIL": "sanjivfresh@gmail.com",
   "PREFIX": "-",
   "OPERATOR": [
-    "",
+    "100014754734049",
     "100091459940475"
   ],
   "ADMINBOT": [
-    ""
+    "100014754734049"
   ],
   "disabledcmds": [],
   "disabledevents": [],
